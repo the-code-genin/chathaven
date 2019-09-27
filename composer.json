@@ -1,0 +1,20 @@
+{
+    "name": "iyiola-am/cradle",
+    "description": "A lightweight MVC framework for building web apps with PHP",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+    	"php": "^7.2"
+    },
+    "autoload": {
+    	"psr-4": {
+    		"App\\Controllers\\": "app/controllers/",
+            "App\\Models\\": "app/models/",
+            "Core\\": "core/",
+            "Cradle\\": "vendor/cradle/"
+        },
+        "files": [
+            "config/autoload.php"
+        ]
+    }
+}
