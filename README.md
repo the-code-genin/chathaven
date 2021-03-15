@@ -10,7 +10,7 @@ If you appreciate the project, remember to leave a star, thank you.
 
 Made with all the love in the world.
 
-Developed and maintained by [Mohammed I. Adekunle](https://github.com/Iyiola-am).
+Developed and maintained by [Mohammed I. Adekunle](https://github.com/the-code-genin).
 
 
 ## Installation
